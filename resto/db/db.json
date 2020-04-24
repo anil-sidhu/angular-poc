@@ -1,0 +1,60 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC restaurant",
+      "email": "kfc@test.com",
+      "address": "Noida, sector 120",
+      "id": 1
+    },
+    {
+      "name": "OM restaurant",
+      "email": "om@test.com",
+      "address": "Delhi sector 20",
+      "id": 2
+    },
+    {
+      "name": "burgent king restaurant",
+      "email": "bKing@test.com",
+      "address": "Dwarka sector 120",
+      "id": 3
+    },
+    {
+      "name": "dominos king restaurant",
+      "address": "gurgaon sector 20",
+      "email": "dominos@test.com",
+      "id": 4
+    },
+    {
+      "name": "halidram king restaurant",
+      "address": "draka sector 20",
+      "email": "halidram@test.com",
+      "id": 5
+    },
+    {
+      "name": "subway",
+      "email": "sunway@test.com",
+      "address": "delhi north",
+      "id": 6
+    },
+    {
+      "name": "natural food",
+      "email": "natural@test.com",
+      "address": "greater noida ",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}
